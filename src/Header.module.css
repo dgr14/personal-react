@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    /* font-size: 4em; */
+    margin: 0;
+}
+.headerReturnDiv{
+    height: 80px;
+    outline: 5px solid black;
+    padding-bottom: 7.5px;
+    /* background-color: lightgrey; */
+    background-image: url("https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?cs=srgb&dl=background-bright-close-up-413195.jpg&fm=jpg");
+    background-repeat: no-repeat;
+    background-size: auto; 
+    background-position: center;
+    color: whitesmoke;
+    -webkit-text-stroke: 2px black;
+    font-size: 2.4em;
+}
+img{
+    position: absolute;
+    height: 88px;
+    /* border-bottom: 5px solid black; */
+}

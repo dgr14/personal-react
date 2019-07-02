@@ -1,0 +1,14 @@
+.indivBox{
+    background-color: ivory;
+    border: 5px solid black;
+    margin: 10px 20px;
+    
+    text-align: center;
+}
+.indivBox:hover{
+    background-color: lightgray;
+}
+h4{
+    margin: 0%;
+    padding: 5px 0;
+}

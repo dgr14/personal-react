@@ -1,0 +1,33 @@
+.teamCardWrapper{
+    border: 5px solid black;
+    height: 200px;
+    position: relative;
+    margin: 10px 20px;
+    /* margin-right: 20px; */
+    background-color: ivory;
+}
+/* .teamCardWrapper:hover{
+    background-color: lightgray;
+} */
+.titleImageHolder{
+    display: flex;
+    align-items: center;
+    /* I want to have the banner color be a linear gradient (left to right) making it easier to read */
+}
+/***SPACER***/
+.spacerDiv{
+    flex: 1;
+}
+/***IMAGE***/
+.teamBadge{
+    height: 75px;
+    margin: 5px;
+    right: 10px;
+    top: 5px; 
+}
+h3{
+    padding-left: 5px;
+}
+h5{
+    margin: 0;
+}

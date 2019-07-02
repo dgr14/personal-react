@@ -1,0 +1,77 @@
+.standingsContainer{
+    /* border: solid 2.5px black; */
+    background-color: ivory;
+    margin: 5px 0;
+    align-items: center;
+    width: 100%;
+}
+.spacerDiv{
+    flex: 1;
+}
+.statStyle{
+    text-align: center;
+    width: 20px;
+    /* margin: 2px; */
+}
+.teamName{
+    max-width: 125px;
+}
+
+
+.tableDisplay{
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    /* overflow-x: auto; */
+}
+th, td{
+    border: 2px solid black;
+    border-collapse: inherit;
+    vertical-align: middle;
+}
+th{
+    height: 20px;
+    font-size: 1em;
+}
+table{
+    border-collapse: collapse;
+}
+tr:hover{
+    background-color: lightgrey;
+}
+tr{
+    text-align: center;
+    max-height: 440px;
+    overflow: auto;
+}
+/* These are all of the hardcoded sizes to get it to match */
+.position{
+    width: 26px;
+}
+.teamNameDisplay{
+    width: 15em;
+}
+.playedGames{
+    width: 57px;
+}
+.won{
+    width: 39px;
+}
+.draw{
+    width: 45px;
+}
+.lost{
+    width: 38px;
+}
+.goalsFor{
+    width: 26px;
+}
+.goalsAgainst{
+    width: 28px;
+}
+.goalDifference{
+    width: 28px;
+}
+.points{
+    width: 53px;
+}

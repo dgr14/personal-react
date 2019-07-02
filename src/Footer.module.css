@@ -1,0 +1,6 @@
+.footerReturnDiv{
+    /* background-color: lightgray; */
+    height: 6em;
+    background-image: url("https://images.pexels.com/photos/413195/pexels-photo-413195.jpeg?cs=srgb&dl=background-bright-close-up-413195.jpg&fm=jpg");
+    outline: solid 5px black;
+}

@@ -1,0 +1,44 @@
+
+.standingsMap{
+    /* height: 440px;
+    overflow-y: scroll; */
+    padding-right: 15px;
+    margin-bottom: 1em;
+}
+/* .position{
+    width: 20px;
+} */
+.headerTable{
+    /* width: 25vw; */
+    
+}
+/* .headerTable > th{
+    
+} */
+.tableRowWidth{
+    width: 40vw;
+}
+.standingsHolder{
+    height: 2em;
+    text-align: center;
+
+    /* margin: 15px 0; */
+}
+.standingsHeader{
+    text-align: center;
+    font-size: 2em;
+    margin: 15px 0;
+    /* position: fixed; */
+    text-decoration: underline;
+}
+.standingsHeader h5 {
+    font-size: 2em;
+}
+th{
+    height: 50px;
+    position: sticky;
+}
+/* tbody{
+    max-height: 440px;
+    overflow: auto;
+} */

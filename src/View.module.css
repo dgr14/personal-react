@@ -1,0 +1,6 @@
+.viewWrapper{
+    display: flex;
+    justify-content: space-around;
+    background-image: url("https://images.pexels.com/photos/240832/pexels-photo-240832.jpeg?cs=srgb&dl=field-game-grass-240832.jpg&fm=jpg");
+    background-position: fixed;
+}

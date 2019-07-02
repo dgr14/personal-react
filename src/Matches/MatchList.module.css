@@ -1,0 +1,15 @@
+.mapMatch{
+    width: 30vw;
+    max-height: 440px;
+    overflow: auto;
+    /* margin: 5px 0px 10px 10px;
+    padding: 10px 10px 0px 0px; */
+}
+.matchHolder{
+    text-align: center;
+    margin: 15px 0;
+}
+.matchHolder h5{
+    font-size: 2em;
+    text-decoration: underline;
+}
