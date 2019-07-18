@@ -5,6 +5,7 @@ import Styles from './MatchList.module.css'
 // import console = require('console');
 
 function MatchList(props) {
+    console.log(props.matches)
     const mappedMatch = props.matches.map((match, i) => <MatchCard key={i} {...match} />)
     return (
         <div className={Styles.matchReturnDiv}>

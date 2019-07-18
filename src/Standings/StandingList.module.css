@@ -1,7 +1,7 @@
 
 .standingsMap{
-    /* height: 440px;
-    overflow-y: scroll; */
+    height: 440px;
+    overflow-y: scroll;
     padding-right: 15px;
     margin-bottom: 1em;
 }
@@ -38,7 +38,3 @@ th{
     height: 50px;
     position: sticky;
 }
-/* tbody{
-    max-height: 440px;
-    overflow: auto;
-} */
